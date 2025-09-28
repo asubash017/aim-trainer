@@ -1,11 +1,11 @@
-# Aim Trainer Game 🎯
+# Aim Trainer Game 
 
 A simple **Aim Trainer Game** built using **Python** and **Pygame**.  
 The game helps improve your mouse accuracy and reaction time by clicking on moving targets before they disappear.
 
 ---
 
-## 🚀 Features
+## Features
 - Targets spawn at random positions and shrink over time.
 - Score system with:
   - Hits
@@ -18,14 +18,14 @@ The game helps improve your mouse accuracy and reaction time by clicking on movi
 
 ---
 
-## 🖼️ Game Preview
+## Game Preview
 - Targets are colored circles that shrink in size until they disappear.
 - Click on the target to score a **hit**.
 - Missing too many targets will cost you lives.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
