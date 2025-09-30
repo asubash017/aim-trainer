@@ -33,3 +33,4 @@ git clone https://github.com/your-username/aim-trainer.git
 cd aim-trainer
 pip install -r requirements.txt
 python main.py
+
